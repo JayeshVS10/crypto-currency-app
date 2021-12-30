@@ -1,1 +1,1 @@
-# crypto-currency-app
+# CryptoVerse
